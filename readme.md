@@ -16,15 +16,15 @@
 
 # PJ Blog
 
-This is a powerful blog, I try to build the blog more beautiful, more convenient. 
+This is a powerful blog, I try building the blog more beautiful, more convenient. 
 
 `Laravel 5.*` and `Vuejs 2.*` combined with the establishment of a good response and quickly dashboard, the dashboard made through the `Vuejs` component development.
 
 I believe it will be better and better. If you are interested in this, you can join and enjoy it.
 
-Here is [documents](https://manual.pigjian.com/)
+Here are [documents](https://manual.pigjian.com/)
 
-[Example](http://example.pigjian.com)
+For [Example](http://example.pigjian.com)
 
 ## Basic Features
 
